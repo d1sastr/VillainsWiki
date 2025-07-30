@@ -11,6 +11,10 @@ html {
   color: white;
     }
     
+button {
+  border-radius: 5%;
+}    
+    
     .homebtn {
       background-color: #6C3BAA;
       color: white;
@@ -97,4 +101,22 @@ a {
 
 a:hover {
   color: white;
+}
+
+.info-container {
+  padding: 12px;
+  float: right;
+  border: solid;
+  border-color: #6A5ACD;
+  width: 45%;
+}
+
+.namebox {
+  border-bottom-style: solid;
+  border-bottom-color: #6A5ACD;
+  text-align: center;
+}
+
+li::marker {
+  content: '⟢';
 }
