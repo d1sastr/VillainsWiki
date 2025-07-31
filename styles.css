@@ -80,6 +80,7 @@ button {
    text-align: center;
    display: block;
    width: 35%;
+   margin: auto;
 }
 
 .character-tile {
