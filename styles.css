@@ -85,7 +85,7 @@ button {
 .character-tile {
   text-align: center;
    padding: 18px;
-   background-color:#6C3BAA;
+   background-color: #6C3BAA;
    color: black;
   margin: auto;
   display: block;
@@ -95,7 +95,6 @@ align-items: center;
 .character-tile:hover {
   background-color: #6A5ACD;
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5)
-  opacity: .75;
   color: white;
 }
 
