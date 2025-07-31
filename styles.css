@@ -90,6 +90,8 @@ button {
    background-color:#6C3BAA;
    color: white;
   align-items: center;
+  margin:auto;
+  display: block;
 }
 
 .character-tile:hover {
