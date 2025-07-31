@@ -74,28 +74,28 @@ button {
 }
 
 #villains {
-   align-items: center;
-	justify-content: center;
    background-color: #520075;
    text-align: center;
-   display: flex;
+   display: block;
    width: 35%;
    margin: auto;
 }
 
 .character-tile {
-  text-align:center;
+  text-align: center;
    padding: 18px;
    background-color:#6C3BAA;
    color: white;
-  align-items: center;
   margin: auto;
-  display: flex;
-  justify-content: center;
+  display: block;
 }
 
 .character-tile:hover {
   background-color: #6A5ACD;
+}
+
+img {
+ width: 35%;
 }
 
 a {
