@@ -126,4 +126,6 @@ ul li::marker {
 	align-items: center;
 	padding: 6px;
 	position: relative;
+	margin: auto;
+	display: block;
 }
