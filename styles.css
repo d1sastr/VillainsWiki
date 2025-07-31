@@ -125,4 +125,5 @@ ul li::marker {
 .profile-image {
 	align-items: center;
 	padding: 6px;
+	position: relative;
 }
