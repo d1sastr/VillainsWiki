@@ -85,9 +85,11 @@ button {
    padding: 18px;
    background-color:#6C3BAA;
    color: white;
-   display: block;
+   display: grid;
+	grid-auto-flow: columns;
    width: 35%;
    margin: auto;
+	align-items: center;
 }
 
 .character-tile:hover {
