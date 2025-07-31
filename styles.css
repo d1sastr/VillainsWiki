@@ -154,6 +154,8 @@ ul li::marker {
 #info-nav {
   border: solid;
   border-color: #6A5ACD;
+  float: left;
+  width: 20%;
 }
 
 .maininfo {
