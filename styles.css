@@ -75,10 +75,10 @@ button {
 
 #villains {
    align-items: center;
-   position: relative;
+	justify-content: center;
    background-color: #520075;
    text-align: center;
-   display: block;
+   display: flex;
    width: 35%;
    margin: auto;
 }
