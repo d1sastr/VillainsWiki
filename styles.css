@@ -90,10 +90,6 @@ button {
    margin: auto;
 }
 
-.tile-image {
-width: 25%;
-}
-
 .character-tile:hover {
   background-color: #6A5ACD;
 }
