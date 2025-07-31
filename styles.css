@@ -153,3 +153,8 @@ ul li::marker {
   border: solid;
   border-color: #6A5ACD;
 }
+
+.maininfo {
+  padding-left: 12px;
+  padding-right: 12px;
+}
