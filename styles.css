@@ -80,6 +80,7 @@ button {
    width: 40%;
    margin: auto;
    align-items: center;
+   color: white;
 }
 
 .character-tile {
@@ -109,12 +110,12 @@ align-items: center;
 }
 
 a {
-  text-decoration:none;
+  text-decoration: none;
     color: white;
 }
 
 a:hover {
-  color: #B5A8EF;
+  color: white;
 }
 
 .info-container {
