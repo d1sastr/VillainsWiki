@@ -112,8 +112,8 @@ a:hover {
   float: right;
   border: solid;
   border-color: #6A5ACD;
-  width: 30%;
-  height: 45%;
+  width: 25%;
+  height: 30%;
 }
 
 .namebox {
@@ -132,4 +132,11 @@ ul li::marker {
 	margin: auto;
 	display: flex;
 	justify-content: center;
+	align-items: center;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }
