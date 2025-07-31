@@ -95,7 +95,8 @@ button {
 }
 
 img {
- width: 35%;
+ width: 30%;
+ object-fit: cover;
 }
 
 a {
@@ -138,5 +139,5 @@ ul li::marker {
 .clearfix::after {
   content: "";
   clear: both;
-  display: table;
+  display: block;
 }
