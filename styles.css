@@ -78,11 +78,8 @@ button {
    position: relative;
    background-color: #520075;
    text-align: center;
-   display: flex;
-   justify-content: center;
-   height: 50%;
+   display: block;
    width: 35%;
-   margin: auto;
 }
 
 .character-tile {
@@ -91,8 +88,9 @@ button {
    background-color:#6C3BAA;
    color: white;
   align-items: center;
-  margin:auto;
-  display: block;
+  margin: auto;
+  display: flex;
+  justify-content: center;
 }
 
 .character-tile:hover {
