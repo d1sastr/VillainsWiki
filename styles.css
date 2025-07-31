@@ -149,3 +149,8 @@ ul li::marker {
   clear: both;
   display: block;
 }
+
+#info-nav {
+  border: solid;
+  border-color: #6A5ACD;
+}
