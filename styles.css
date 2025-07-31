@@ -92,11 +92,15 @@ button {
 
 .character-tile:hover {
   background-color: #6A5ACD;
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5)
 }
 
 img {
- width: 30%;
- object-fit: cover;
+ max-width: 45%;
+ height: auto;
+   border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
 }
 
 a {
