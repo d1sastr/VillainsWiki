@@ -121,3 +121,7 @@ height: 45%;
 ul li::marker {
   content:'⟢';
 }
+
+#image-alison {
+	align-items: center;
+}
