@@ -161,14 +161,14 @@ ul li::marker {
   border-color: #6A5ACD;
   float: left;
   width: 60vw;
-  margin: 15px;
+  margin: 15vw;
   word-wrap: normal;
   padding: 10vw;
 }
 
 .maininfo {
-  padding-left: 12px;
-  padding-right: 12px;
+  padding-left: 12vw;
+  padding-right: 12vw;
   display: block;
   margin: auto;
 }
@@ -177,4 +177,9 @@ ul li::marker {
 	font-weight: bold;
 	font-style: italic;
 	font-size: 20vw;
+}
+
+.name {
+        font-weight: bold;
+        font-size: 16vw;
 }
