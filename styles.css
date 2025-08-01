@@ -131,6 +131,7 @@ a:hover {
   border-bottom-style: solid;
   border-bottom-color: #6A5ACD;
   text-align: center;
+  font-family: "Lucida Handwriting", cursive, serif;
 }
 
 ul li::marker {
