@@ -104,7 +104,7 @@ border-radius: 4px;
 .tileimg {
   max-width: 45%;
  height: auto;
-   border: 1px solid #ddd;
+   border: 1px solid #6A5ACD;
   border-radius: 4px;
 	display: block;
 	margin: auto;
@@ -183,3 +183,7 @@ ul li::marker {
         font-weight: bold;
         font-size: 16px;
 }
+
+.infobold {
+	font-weight: bold;
+	background-color: #6A5ACD;
