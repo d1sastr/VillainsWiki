@@ -157,8 +157,9 @@ ul li::marker {
   border-color: #6A5ACD;
   float: left;
   width: 23%;
-  margin: 10px;
+  margin: 15px;
   word-wrap: normal;
+  padding: 10px;
 }
 
 .maininfo {
