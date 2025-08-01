@@ -162,7 +162,7 @@ ul li::marker {
   width: 23%;
   margin: 15px;
   word-wrap: normal;
-  padding: 10px;
+  padding: 10vw;
 }
 
 .maininfo {
