@@ -160,7 +160,7 @@ ul li::marker {
   border: solid;
   border-color: #6A5ACD;
   float: left;
-  width: 23%;
+  width: 60vw;
   margin: 15px;
   word-wrap: normal;
   padding: 10vw;
