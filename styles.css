@@ -156,12 +156,14 @@ ul li::marker {
   border: solid;
   border-color: #6A5ACD;
   float: left;
-  width: 160vw;
-  padding: 10px;
-  
+  width: 23%;
+  margin: 10px;
+  word-wrap: normal;
 }
 
 .maininfo {
   padding-left: 12px;
   padding-right: 12px;
+  display: block;
+  margin: auto;
 }
